@@ -1,4 +1,4 @@
-## Configuring a VPC and EC2 Through Terraform ##
+## Configuring a VPC Through Terraform ##
 
 provider "aws" {
     region = "ap-southeast-1"
